@@ -1,5 +1,7 @@
 # Career Path Recommendation Platform
 
+**Live demo:** https://career-path-recommendation-pi.vercel.app — _Demo: results use bundled sample data (no live AI key)._
+
 An AI-powered platform that generates a personalized career roadmap based on your target job title — covering required skills, recommended courses, portfolio projects, salary range, and career trajectory.
 
 ## Features

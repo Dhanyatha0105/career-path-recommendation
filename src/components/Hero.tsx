@@ -32,10 +32,6 @@ export default function Hero({ onSearch, loading }: HeroProps) {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.5 }}
                     >
-                        <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-amber-400/10 px-4 py-1.5 text-xs font-medium text-amber-300 ring-1 ring-inset ring-amber-400/30">
-                            <span className="h-1.5 w-1.5 rounded-full bg-amber-400" />
-                            Demo — results use bundled sample data (no live AI key)
-                        </div>
                         <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl bg-clip-text text-transparent bg-gradient-to-r from-indigo-200 via-white to-indigo-200">
                             Discover Your Career Path
                         </h1>
